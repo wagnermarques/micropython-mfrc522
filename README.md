@@ -21,7 +21,7 @@ I used the following pins for my setup:
 | sck       | 0            |D18-GPIO18-VSPI_CLK    |"GP14"         |                                      |
 | mosi      | 2            |D23-GPIO23-VSPI_MOSI   |"GP16"         |                                      |
 | miso      | 4            |D19-GPIO19-VSPI_MISO   |"GP15"         |                                      |
-| rst       | 5            |D23-GPIO23-VSPI_MOSI   |"GP22"         |                                      |
+| rst       | 5            |D22-GPIO23-VSPI_MOSI   |"GP22"         |                                      |
 | cs(sda)   | 14           |D21-GPIO21-SDA         |"GP14"         |Labeled SDA on most RFID-RC522 boards |
 | GND       | GND          |GND                    |               |                                      |
 | 3v        | 3v           |                       |               |                                      |
